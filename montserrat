@@ -31,9 +31,9 @@ def checkguess(guess, answer):
 # question list
 questions = ['What is the name for a fast-flowing mudflow caused by volcanic ash mixing with rainwater? ', 'What is the maximum recorded speed for Pyroclastic flows? ', 'What is the volcanic gas responsible for global cooling? ', 
              'What is the most reactive gas released by volcanic eruptions? ', 'What gas is released in the largest quantity during volcanic eruptions? '
-             '']
+             ]
 # answer list
-answers = ['Lahar', '700kmph', 'sulphur dioxide', 'Flourine', 'Water vapour', '']
+answers = ['Lahar', '700kmph', 'sulphur dioxide', 'Flourine', 'Water vapour', ]
 # record
 record = []
 # start
